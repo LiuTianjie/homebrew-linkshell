@@ -1,8 +1,8 @@
 class Linkshell < Formula
   desc "Remote terminal bridge — control local CLI sessions from your phone"
   homepage "https://github.com/LiuTianjie/LinkShell"
-  url "https://registry.npmjs.org/linkshell-cli/-/linkshell-cli-0.2.95.tgz"
-  sha256 "2c0c6fe6d5667052cdf341f5abadeeb1248e084cc24ff14390b4e4cbe19f9ab1"
+  url "https://registry.npmjs.org/linkshell-cli/-/linkshell-cli-0.2.96.tgz"
+  sha256 "da16bd67f967e93c4f0ec5c1938096cbd8afe2234db47c5b4b57657d9802b553"
   license "MIT"
 
   depends_on "node@22"
