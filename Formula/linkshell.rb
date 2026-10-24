@@ -1,8 +1,8 @@
 class Linkshell < Formula
   desc "Follow, steer and approve the coding agents on your computer from your phone"
   homepage "https://github.com/LiuTianjie/LinkShell"
-  url "https://registry.npmjs.org/linkshell-cli/-/linkshell-cli-0.10.68.tgz"
-  sha256 "23fc3154878737771076e54587e0bab214157608795f6e7e75699f603232701e"
+  url "https://registry.npmjs.org/linkshell-cli/-/linkshell-cli-0.10.69.tgz"
+  sha256 "d8a5b8eb252680b70896ce02a9581d07abcfe9f8c394ae25c80d6ca46fbcc991"
   license "MIT"
 
   depends_on "node@22"
